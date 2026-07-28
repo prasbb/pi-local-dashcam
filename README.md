@@ -160,4 +160,4 @@ The camera-check script only discovers Linux video devices. Capture and recordin
 
 ## License
 
-This repository is released under the [MIT License](LICENSE).
+Please see LICENSE
