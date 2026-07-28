@@ -1,0 +1,43 @@
+system:
+  timezone: UTC
+  data_root: /data/dashcam
+  segment_seconds: 60
+  log_level: INFO
+
+cameras:
+  front:
+    device: /dev/video0
+    width: 1920
+    height: 1080
+    fps: 30
+    input_codec: h264
+  rear:
+    device: /dev/video2
+    width: 1920
+    height: 1080
+    fps: 30
+    input_codec: h264
+
+storage:
+  minimum_free_gb: 50
+  maximum_usage_percent: 90
+  protect_pre_event_seconds: 30
+  protect_post_event_seconds: 60
+
+audio:
+  enabled: false
+  device: default
+
+network:
+  local_api_host: 192.168.50.1
+  local_api_port: 8000
+  bluetooth_pairing_enabled: true
+
+power:
+  ignition_gpio: 17
+  shutdown_delay_seconds: 20
+  critical_temperature_c: 80
+
+imu:
+  enabled: true
+  impact_threshold_g: 2.5

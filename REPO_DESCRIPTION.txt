@@ -1,0 +1,1 @@
+Fully local Raspberry Pi dashcam platform for synchronized front/rear recording, NVMe loop storage, protected event clips, GPS/IMU metadata, and private Wi-Fi/Bluetooth control—no cloud required.
