@@ -1,6 +1,6 @@
 # Pi Local Dashcam
 
-A fully local, privacy-first dashcam platform built around a single Raspberry Pi controller.
+A fully local, privacy-first dashcam project built around a single Raspberry Pi controller.
 
 The initial design supports synchronized front and rear recording, local NVMe loop storage, protected incident clips, GPS/IMU metadata, and private phone access over Wi-Fi or Bluetooth. No cloud account or internet connection is required.
 
