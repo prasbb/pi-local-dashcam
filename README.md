@@ -158,6 +158,21 @@ The camera-check script only discovers Linux video devices. Capture and recordin
 - **Minimize distractions:** no driver-facing controls should require interaction while driving.
 - **Preserve evidence:** protected clips must not be removed by ordinary loop-recording cleanup.
 
+
+## Personal Noncommercial Project
+
+Pi Local Dashcam is a personal, noncommercial software and hardware learning project.
+
+It is developed solely for education, technical experimentation, research, open technical learning, and personal use. The repository documents my exploration of Raspberry Pi hardware, cameras, local storage, embedded software, networking, security, and related systems-engineering concepts.
+
+This project is **not a business, startup, commercial product, paid service, commercial prototype, or product being developed for future sale**.
+
+No goods or services are offered for sale through this repository. The project has no customers, commercial deployments, business model, sales activity, or commercialization roadmap.
+
+Development milestones and future-work sections describe only technical experiments and personal learning goals.
+
+The repository is provided for educational and noncommercial purposes under the applicable licenses. Commercial use is not permitted under those licenses. No commercial licensing program is offered through this repository.
+
 ## License
 
 Please see LICENSE
